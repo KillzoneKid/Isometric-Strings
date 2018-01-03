@@ -17,7 +17,7 @@ You may assume both `s` and `t` are lower case and have the same length.
 
 ###### Solution:
 
-This is an O(n) [algorithm] (https://ideone.com/4odPij) or better.
+This is an O(n) [algorithm](https://ideone.com/4odPij) or better.
 
 
 
