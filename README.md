@@ -1,9 +1,11 @@
 ## Isometric Strings
 
 - Given two strings `s` and `t`, determine if `s` is isomorphic to `t`.
-- String `s` is isomorphic to `t` if the characters in `s` can be replaced to get `t`.
-- All occurrences of a character must be replaced with another character while preserving the order of characters.
-- No two characters may map to the same character but a character may map to itself.
+- String `s` is isomorphic to `t` if the letters in `s` can be remapped to get `t`.
+- Remapping a letter means replacing all occurrences of it in `s` with another letter.
+- A letter in `s` could only be mapped to one letter in `t`.
+- The ordering of the letters must remain unchanged.
+
 
 ###### For example:
 
