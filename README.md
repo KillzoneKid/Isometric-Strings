@@ -7,9 +7,9 @@
 
 ###### For example:
 
-Given "egg", "add", return true.
-Given "foo", "bar", return false.
-Given "paper", "title", return true.
+- [x] Given "egg", "add", return true.
+- [ ] Given "foo", "bar", return false.
+- [x] Given "paper", "title", return true.
 
 ###### Note:
 
@@ -17,5 +17,9 @@ You may assume both s and t have the same length.
 
 ###### Solution:
 
-This is an O(n) algoritm or better.
+This is an O(n) [algorithm] (https://ideone.com/4odPij) or better.
+
+
+
+
 
