@@ -7,13 +7,13 @@
 
 ###### For example:
 
-- [x] Given "egg", "add", return true.
-- [ ] Given "foo", "bar", return false.
-- [x] Given "paper", "title", return true.
+- [x] Given "egg", "add", return `true`.
+- [ ] Given "foo", "bar", return `false`.
+- [x] Given "paper", "title", return `true`.
 
 ###### Note:
 
-You may assume both s and t have the same length.
+You may assume both `s` and `t` are lower case and have the same length.
 
 ###### Solution:
 
