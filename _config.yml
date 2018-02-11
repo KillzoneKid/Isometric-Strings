@@ -5,6 +5,6 @@ input: GFM
 hard_wrap: false
 future: true
 jailed: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 gfm_quirks: paragraph_end
 remote_theme: son-link / jekyll-simple-dark
